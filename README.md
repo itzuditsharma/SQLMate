@@ -9,6 +9,8 @@ Displays query results and success messages in an intuitive interface.
 No need for manual SQL query writing—just ask in plain English!
 Built with Streamlit for the frontend and Google Gemini API for query generation.
 
+Run script: streamlit run app.py
+
 # App
 ![image](https://github.com/user-attachments/assets/66b11c49-64ef-4fa5-8d22-42095b2724f4)
 
